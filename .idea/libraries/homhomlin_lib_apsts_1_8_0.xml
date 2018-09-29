@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="homhomlin.lib:apsts-1.8.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/apsts-1.8.0.aar/9716372b50d7fc618a5e1ee4e0c5e10f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/apsts-1.8.0.aar/9716372b50d7fc618a5e1ee4e0c5e10f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/homhomlin.lib/apsts/1.8.0/17b762e750bee9a588ad48580ff300cbca9e0e27/apsts-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

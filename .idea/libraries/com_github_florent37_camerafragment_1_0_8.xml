@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.florent37:camerafragment-1.0.8">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camerafragment-1.0.8.aar/0936feb1efee685bb8b9776a15764ea1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camerafragment-1.0.8.aar/0936feb1efee685bb8b9776a15764ea1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/camerafragment/1.0.8/fe82fc477324d747ba4ac5d04e9e602677eef69a/camerafragment-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

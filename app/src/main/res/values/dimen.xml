@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topSize">60sp</dimen>
+
+    <dimen name="tool_bar">60dp</dimen>
+    <dimen name="tool_back">10dp</dimen>
+    <dimen name="textSize_12">12.0sp</dimen>
+    <dimen name="textSize_14">14.0sp</dimen>
+    <dimen name="textSize_15">15.0sp</dimen>
+    <dimen name="textSize_16">16.0sp</dimen>
+    <dimen name="textSize_17">17.0sp</dimen>
+    <dimen name="textSize_18">18.0sp</dimen>
+    <dimen name="textSize_19">19.0sp</dimen>
+    <dimen name="textSize_20">20.0sp</dimen>
+    <!--Main Page-->
+    <dimen name="main_ticket_height">260dp</dimen>
+    <dimen name="main_margin">22dp</dimen>
+    <dimen name="main_text_size">50sp</dimen>
+    <dimen name="text_size">16dp</dimen>
+    <dimen name="home_list_icon_width">75dp</dimen>
+    <dimen name="home_list_ioon_height">100dp</dimen>
+    <dimen name="item_horizan_list_margin">5dp</dimen>
+    <dimen name="main_margin_big">100dp</dimen>
+
+    <!--Sign in page-->
+    <dimen name="sign_padding_top">56dp</dimen>
+    <dimen name="sign_text_height">72dp</dimen>
+    <dimen name="sign_text_size">50sp</dimen>
+    <dimen name="sign_margin">8dp</dimen>
+    <dimen name="sign_btn_margin">12dp</dimen>
+    <!--Sign up Page-->
+
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="weibo_tab_size">30dp</dimen>
+    <dimen name="tool_bar_view">1.5dp</dimen>
+    <dimen name="button_drawable_padding">360dip</dimen>
+    <dimen name="home_bar_icon_margins">15dp</dimen>
+
+
+
+    <!--home page-->
+    <dimen name="switchBanner_height">200dp</dimen>
+    <dimen name="banner_margin">10dp</dimen>
+    <dimen name="home_margin">15dp</dimen>
+    <dimen name="home_end_margin">20dp</dimen>
+
+
+
+    <!--我的 界面-->
+    <dimen name="Alpha">0.8</dimen>
+    <dimen name="me_login_layout_height">90dp</dimen>
+    <dimen name="me_login_head_width">65dp</dimen>
+    <dimen name="me_login_head_height">60dp</dimen>
+    <dimen name="me_login_layout_paddingLeft">15dp</dimen>
+    <dimen name="me_login_head_marginEnd">10dp</dimen>
+    <dimen name="me_login_level_width">28dp</dimen>
+    <dimen name="me_login_level_height">22dp</dimen>
+    <dimen name="me_login_profile_layout_marginStart">10dp</dimen>
+    <dimen name="me_login_level_marginStart">5dp</dimen>
+    <dimen name="me_login_balance_layout_marginTop">5dp</dimen>
+    <dimen name="me_login_username_size">@dimen/textSize_20</dimen>
+    <dimen name="me_login_balance_size">@dimen/textSize_16</dimen>
+    <dimen name="me_nologin_textSize">@dimen/textSize_14</dimen>
+    <dimen name="me_item_common_layout_marginTop">7dp</dimen>
+
+    <!--profile detail-->
+    <dimen name="around_toolbar_height">45dp</dimen>
+
+    <!--show page-->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_ticket_name">35dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="buy_height">30dp</dimen>
+    <dimen name="buy_width">25dp</dimen>
+    
+    <!--category-->
+    <dimen name="category_parallaxHeaderFactor">1.5</dimen>
+    <dimen name="category_imageHeaderDarkLayerAlpha">0.2</dimen>
+    <dimen name="category_headerAlpha">0.4</dimen>
+    <dimen name="category_header_height">130dp</dimen>
+    <dimen name="category_logo_margin">50dp</dimen>
+    <dimen name="category_img_height">120dp</dimen>
+    <dimen name="category_img_width">70dp</dimen>
+    <dimen name="radius">2dp</dimen>
+
+    <!--admin-->
+    <dimen name="admin_btn_height">270dp</dimen>
+    <dimen name="admin_exit_height">88dp</dimen>
+</resources>
