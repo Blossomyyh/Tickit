@@ -4,11 +4,7 @@
 
 ## 混合开发
 
----
 
-GITHUB地址：
-
-https://github.com/ArilexWang/Tickit2
 
 ### 项目概述
 
@@ -150,21 +146,21 @@ https://github.com/ArilexWang/Tickit2
 
 ## ScreenShot
 
-![1](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/1.png)
+![1](/img/1.png)
 
-![2](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/2.png)
+![2](img/2.png)
 
-![3](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/3.png)
+![3](img/3.png)
 
-![4](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/4.png)
+![4](img/4.png)
 
-![5](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/5.png)
+![5](img/5.png)
 
-![6](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/6.png)
+![6](img/6.png)
 
-![7](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/7.png)
+![7](img/7.png)
 
-![8](/Users/yuhanyin/AndroidStudioProjects/TICKIT666/img/8.png)
+![8](img/8.png)
 
 
 
@@ -182,3 +178,4 @@ https://github.com/ArilexWang/Tickit2
 * [glide](https://github.com/bumptech/glide)
 
 
+- 2 Teammates 
